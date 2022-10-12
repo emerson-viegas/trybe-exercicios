@@ -1,6 +1,3 @@
-# trybe-exercicios
-Meus execícios feitos durante o curso da Trybe ! 
+# Trybe - Exercícios
 
-# Meu repositório de exercícios
-Alteração para usar um 'git pull'
-git pull bem sucedido!
+Exercícios desenvolvidos durante a formação Full-Stack da Trybe.
