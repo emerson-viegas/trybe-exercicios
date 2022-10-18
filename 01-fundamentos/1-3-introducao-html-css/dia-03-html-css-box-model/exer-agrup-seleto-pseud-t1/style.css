@@ -9,3 +9,8 @@ li:hover {
 li:active {
     color: blanchedalmond;
 }
+
+.lista {
+    list-style: none;
+    
+}
