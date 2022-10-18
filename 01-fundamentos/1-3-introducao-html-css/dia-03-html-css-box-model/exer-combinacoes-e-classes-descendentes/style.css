@@ -24,3 +24,21 @@ li em {
 .cor {
     background-color: pink;
 }
+#lista2 li a:hover {
+    font-weight: 900;
+}
+#lista2 li a[href*="https://pt.stackoverflow.com"] {
+    color: orange;
+}
+#lista2 li a[href*="https://www.w3schools.com"] {
+    color: green;
+}
+#lista2 li a[href*="https://developer.mozilla.org"]{
+    color: black;
+}
+#lista2 li a[href*="https://devdocs.io"]{
+    color: yellow;
+}
+#lista2 li a[href*="https://app.betrybe.com"]{
+    color: lightgreen;
+}
