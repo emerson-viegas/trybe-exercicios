@@ -21,3 +21,6 @@ li em {
 #lista1 li:not(:nth-child(n+4)){
     color: blue;
 }
+.cor {
+    background-color: pink;
+}
