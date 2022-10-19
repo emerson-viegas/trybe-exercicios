@@ -39,3 +39,8 @@ h1 {
   h3 {
     margin-left: 270px;
   }
+
+  li {
+    display: inline-block;
+  }
+  
