@@ -43,4 +43,7 @@ h1 {
   li {
     display: inline-block;
   }
-  
+
+  .premio {
+    margin-left: 50px;
+  }
