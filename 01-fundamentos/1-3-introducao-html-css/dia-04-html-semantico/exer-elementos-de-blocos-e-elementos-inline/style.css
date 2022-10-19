@@ -35,3 +35,7 @@ h1 {
     list-style: none;
     display: inline-block;
   }
+
+  h3 {
+    margin-left: 270px;
+  }
