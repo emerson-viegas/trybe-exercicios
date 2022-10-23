@@ -1,7 +1,7 @@
 let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 
 
-//exercicio imprimindo valores do array 
+// exercicio imprimindo valores  array 
 
 // for(let index = 0; index < numbers.length; index += 1){
   
@@ -10,7 +10,7 @@ let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 // }
 
 
-//exercicio soma elementos do array
+// exercicio soma elementos do array
 
 let soma = 0;
 
@@ -32,4 +32,11 @@ for(let index = 0; index < numbers.length; index += 1){
 
 }
 
+if (media > 20){
+  console.log('Valor maior que 20');
+}else{
+  console.log('Valor menor ou igual a 20');
+}
+
 console.log(media);
+
