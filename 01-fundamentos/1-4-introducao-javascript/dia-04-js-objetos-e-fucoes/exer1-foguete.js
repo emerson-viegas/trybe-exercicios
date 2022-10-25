@@ -13,3 +13,8 @@ console.log(info.recorrente);
 for(let chaves in info){
   console.log(chaves);
 }
+
+for(let valores in info){
+  console.log(info[valores]);
+}
+
